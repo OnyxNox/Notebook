@@ -1,5 +1,11 @@
 # Notebook
 
+## Network
+
+### [Self-signed SSL Certificate](./NAS/Self-signed%20SSL%20Certificate.md)
+
+Generate a self-signed SSL certificate trusted across your local network. Covers creating a local Certificate Authority (CA), issuing wildcard certificates, and installing the CA on Windows.
+
 ## Scripts
 
 ### [Anti-Idle](./Scripts/AntiIdle.ps1)
